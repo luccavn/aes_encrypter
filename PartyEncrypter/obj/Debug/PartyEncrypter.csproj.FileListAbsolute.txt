@@ -1,0 +1,6 @@
+c:\users\lucca vinicius\documents\visual studio 2015\Projects\PartyEncrypter\PartyEncrypter\bin\Debug\PartyEncrypter.exe.config
+c:\users\lucca vinicius\documents\visual studio 2015\Projects\PartyEncrypter\PartyEncrypter\bin\Debug\PartyEncrypter.exe
+c:\users\lucca vinicius\documents\visual studio 2015\Projects\PartyEncrypter\PartyEncrypter\bin\Debug\PartyEncrypter.pdb
+c:\users\lucca vinicius\documents\visual studio 2015\Projects\PartyEncrypter\PartyEncrypter\obj\Debug\PartyEncrypter.csprojResolveAssemblyReference.cache
+c:\users\lucca vinicius\documents\visual studio 2015\Projects\PartyEncrypter\PartyEncrypter\obj\Debug\PartyEncrypter.exe
+c:\users\lucca vinicius\documents\visual studio 2015\Projects\PartyEncrypter\PartyEncrypter\obj\Debug\PartyEncrypter.pdb
